@@ -1,1 +1,3 @@
 # gamma-function
+
+A Python script that defines the gamma function for all complex numbers, as well as some probability functions related to distributions that use the gamma function. I initially used this function as a way to test ChatGPT's (GPT-3) coding ability when it initially released to the public in January 2023. The process took about 3 hours, and the AI was only able to get most of the way there, so I finished the function on my own. All of the other functions in the script were created by me. Uses only the mpmath package. More description to come.
